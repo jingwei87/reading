@@ -47,7 +47,7 @@ Consider to structure the presentation in slides, and guide the discussion throu
 | 2020.2.24 | Ren, Yanjing | ATC'19 |  [Extension Framework for File Systems in User space](https://www.usenix.org/system/files/atc19-bijlani.pdf)| [PDF](./slides/ExtFUSE-2020-2-24.pdf) |
 | 2020.3.6 | Huang, Suyu | ATC'19 |  [Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs](https://www.usenix.org/system/files/atc19-lee-gyusun.pdf)| [PDF](./slides/Gabriel/AIOS_20200306.pdf) |
 | 2020.3.13 | Ji, Xinyuan | OSDI'18 | [Pocket: Elastic Ephemeral Storage for Serverless Analytics](https://www.usenix.org/system/files/osdi18-klimovic.pdf) | [PDF](./slides/Cardinal/Pocket_20200313.pdf) |
-| 2020.3.20 | Wei Guoli | ATC'19 | [Data Domain Cloud Tier: Backup here,backup there, deduplicated everywhere!](https://www.usenix.org/system/files/atc19-duggal.pdf)| [PDF]() |
+| 2020.3.20 | Wei Guoli | ATC'19 | [Data Domain Cloud Tier: Backup here,backup there, deduplicated everywhere!](https://www.usenix.org/system/files/atc19-duggal.pdf)| [PDF](./slides/DataDomain-2020-3-20.pdf) |
 
 
 **Fall 2019**  
