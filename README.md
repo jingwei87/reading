@@ -49,7 +49,7 @@ Consider to structure the presentation in slides, and guide the discussion throu
 | 2020.3.13 | Ji, Xinyuan | OSDI'18 | [Pocket: Elastic Ephemeral Storage for Serverless Analytics](https://www.usenix.org/system/files/osdi18-klimovic.pdf) | [PDF](./slides/Cardinal/Pocket_20200313.pdf) |
 | 2020.3.20 | Wei Guoli | ATC'19 | [Data Domain Cloud Tier: Backup here,backup there, deduplicated everywhere!](https://www.usenix.org/system/files/atc19-duggal.pdf)| [PDF](./slides/DataDomain-2020-3-20.pdf) |
 | 2020.3.27 | Xing Pengzhi | ATC'19 | [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)| [PDF] |
-| 2020.4.3 | |  | |  |
+| 2020.4.3 | Liang, Jiacheng | FAST'20 | [How to Copy Files](https://www.usenix.org/system/files/fast20-zhan.pdf)| [PDF] |
 | 2020.4.10 | Ren, Yanjing | FAST'20 | [Read as Needed: Building WiSER, a Flash-Optimized Search Engine](https://www.usenix.org/system/files/fast20-he.pdf) | [PDF] |
 
 
