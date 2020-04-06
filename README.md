@@ -51,7 +51,7 @@ Consider to structure the presentation in slides, and guide the discussion throu
 | 2020.3.27 | Xing Pengzhi | ATC'19 | [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)| [PDF] |
 | 2020.4.3 | Liang, Jiacheng | FAST'20 | [How to Copy Files](https://www.usenix.org/system/files/fast20-zhan.pdf)| [PDF] |
 | 2020.4.10 | Ren, Yanjing | FAST'20 | [Read as Needed: Building WiSER, a Flash-Optimized Search Engine](https://www.usenix.org/system/files/fast20-he.pdf) | [PDF] |
-
+| 2020.3.17 | Huang, Suyu | FAST'20 |  [BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server](https://www.usenix.org/system/files/fast20-wang_shucheng.pdf)| [PDF] |
 
 
 **Fall 2019**  
