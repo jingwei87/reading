@@ -47,13 +47,13 @@ Consider to structure the presentation in slides, and guide the discussion throu
 | 2020.2.24 | Ren, Yanjing | ATC'19 |  [Extension Framework for File Systems in User space](https://www.usenix.org/system/files/atc19-bijlani.pdf)| [PDF](./slides/YanjingRen/RG-ATC19-ExtFUSE-Slides.pdf) |
 | 2020.3.6 | Huang, Suyu | ATC'19 |  [Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs](https://www.usenix.org/system/files/atc19-lee-gyusun.pdf)| [PDF](./slides/Gabriel/AIOS_20200306.pdf) |
 | 2020.3.13 | Ji, Xinyuan | OSDI'18 | [Pocket: Elastic Ephemeral Storage for Serverless Analytics](https://www.usenix.org/system/files/osdi18-klimovic.pdf) | [PDF](./slides/Cardinal/Pocket_20200313.pdf) |
-| 2020.3.20 | Wei Guoli | ATC'19 | [Data Domain Cloud Tier: Backup here,backup there, deduplicated everywhere!](https://www.usenix.org/system/files/atc19-duggal.pdf)| [PDF](./slides/DataDomain-2020-3-20.pdf) |
+| 2020.3.20 | Wei, Guoli | ATC'19 | [Data Domain Cloud Tier: Backup here,backup there, deduplicated everywhere!](https://www.usenix.org/system/files/atc19-duggal.pdf)| [PDF](./slides/DataDomain-2020-3-20.pdf) |
 | 2020.3.27 | Xing Pengzhi | ATC'19 | [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)| [PDF] |
 | 2020.4.3 | Liang, Jiacheng | FAST'20 | [How to Copy Files](https://www.usenix.org/system/files/fast20-zhan.pdf)| [PDF] |
 | 2020.4.10 | Ren, Yanjing | FAST'20 | [Read as Needed: Building WiSER, a Flash-Optimized Search Engine](https://www.usenix.org/system/files/fast20-he.pdf) | [PDF](./slides/YanjingRen/RG-FAST20-ReadAsNeeded-Slides.pdf) |
 | 2020.3.17 | Huang, Suyu | FAST'20 |  [BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server](https://www.usenix.org/system/files/fast20-wang_shucheng.pdf)| [PDF](./slides/Gabriel/BCW_20200417.pdf) |
-
-
+| 2020.3.24 |  |  |   |
+| 2020.5.1 | Wei, Guoli | ACT'19 |  [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)| [PDF]() |
 **Fall 2019**  
 
 - 7 pm on Tuesday of every week.
