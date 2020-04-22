@@ -54,6 +54,7 @@ Consider to structure the presentation in slides, and guide the discussion throu
 | 2020.3.17 | Huang, Suyu | FAST'20 |  [BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server](https://www.usenix.org/system/files/fast20-wang_shucheng.pdf)| [PDF](./slides/Gabriel/BCW_20200417.pdf) |
 | 2020.3.24 |  |  |   |
 | 2020.5.1 | Wei, Guoli | ACT'19 |  [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)| [PDF]() |
+
 **Fall 2019**  
 
 - 7 pm on Tuesday of every week.
