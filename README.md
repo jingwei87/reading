@@ -51,7 +51,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.4.10 | Ren, Yanjing | FAST'20 | [Read as Needed: Building WiSER, a Flash-Optimized Search Engine](https://www.usenix.org/system/files/fast20-he.pdf) | [PDF](./slides/YanjingRen/RG-FAST20-ReadAsNeeded-Slides.pdf) |
 | 2020.3.17 | Huang, Suyu | FAST'20 |  [BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server](https://www.usenix.org/system/files/fast20-wang_shucheng.pdf)| [PDF](./slides/Gabriel/BCW_20200417.pdf) |
 | 2020.3.24 | Ji, Xinyuan | FAST'20 | [CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost](https://www.usenix.org/system/files/fast20-wang_zizhong.pdf) | [PDF] |
-| 2020.5.1 | Wei, Guoli | ACT'19 |  [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)| [PDF]() |
+| 2020.5.1 | Wei, Guoli | ACT'19 |  [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)| [PDF](./slides/Pragh-2020-5-1.pdf) |
 | 2020.5.8 | Xing, Pengzhi | ACT'19 |  [OPTR: Order-Preserving Translation and Recovery Design for SSDs with a Standard Block Device Interface](https://www.usenix.org/system/files/atc19-chang_0.pdf)| [PDF]() |
 
 **Fall 2019**  
