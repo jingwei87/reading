@@ -30,9 +30,9 @@ The primary goal of the discussion is to *understand what the paper says*. With 
 
 - Write down a note (a template can be found [here](template/notes_tpl.md)), such that anyone who does not read the paper can have a high-level understanding (of main contents, advantages and disadvantages) based on your note. 
 - Structure your presentation in slides, and guide the discussion through (i) what is the problem to be solved? (ii) what are the key ideas/insights/techniques used to address the problem? and (iii) How do the authors justify their design?
- 
+
 After discussion, keep the notes (in `md`) and slides (in `pdf`) in the directories `notes` and `slides`, respectively.
- 
+
 
 ## Schedule
 
@@ -53,6 +53,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.3.24 | Ji, Xinyuan | FAST'20 | [CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost](https://www.usenix.org/system/files/fast20-wang_zizhong.pdf) | [PDF] |
 | 2020.5.1 | Wei, Guoli | ACT'19 |  [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)| [PDF](./slides/Pragh-2020-5-1.pdf) |
 | 2020.5.8 | Xing, Pengzhi | ACT'19 |  [OPTR: Order-Preserving Translation and Recovery Design for SSDs with a Standard Block Device Interface](https://www.usenix.org/system/files/atc19-chang_0.pdf)| [PDF]() |
+| 2020.5.22 | Liang, Jiacheng | FAST'20 | [GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage](https://www.usenix.org/conference/fast20/presentation/nachman) | PDF |
 
 **Fall 2019**  
 
