@@ -54,7 +54,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.5.1  | Wei, Guoli      | ACT'19     | [Pragh: Locality-preserving Graph Traversal with Split Live Migration](https://www.usenix.org/system/files/atc19-xie.pdf)                                       | [PDF](./slides/Pragh-2020-5-1.pdf)                                  |
 | 2020.5.8  | Xing, Pengzhi   | ACT'19     | [OPTR: Order-Preserving Translation and Recovery Design for SSDs with a Standard Block Device Interface](https://www.usenix.org/system/files/atc19-chang_0.pdf) | [PDF]()                                                             |
 | 2020.5.22 | Liang, Jiacheng | FAST'20    | [GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage](https://www.usenix.org/conference/fast20/presentation/nachman)                            | [PDF](./slides/ljc/goseedppt_ljc.pdf)                               |
-| 2020.6.2  | Ren, Yanjing    | Eurosys'20 | [RAIDP: replication with intra-disk parity](https://dl.acm.org/doi/abs/10.1145/3342195.3387546)                                                                 | [PDF](), [Note](notes/YanjingRen/2020-05-01-Note-Eitan2020RAIDP.md) |
+| 2020.6.2  | Ren, Yanjing    | Eurosys'20 | [RAIDP: replication with intra-disk parity](https://dl.acm.org/doi/abs/10.1145/3342195.3387546)                                                                 | [PDF](slides/YanjingRen/RG-EuroSys20-RAIDP.pdf), [Note](notes/YanjingRen/2020-05-01-Note-Eitan2020RAIDP.md) |
 
 **Fall 2019**
 
