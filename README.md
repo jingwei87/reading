@@ -15,9 +15,10 @@ Consider to propose the *regular research papers* from the top conferences in th
 
 **Generic Systems**  
 
-- OSDI/SOSP: 
-- ATC: [2019](https://www.usenix.org/conference/atc19/technical-sessions) 
-- EuroSys:  
+- OSDI: [2020](https://www.usenix.org/conference/osdi20/accepted-papers), [2018](https://www.usenix.org/conference/osdi18/technical-sessions)
+- SOSP: [2019](https://sosp19.rcs.uwaterloo.ca/program.html), [2017](https://www.sigops.org/s/conferences/sosp/2017/program.html)
+- ATC: [2020](https://www.usenix.org/conference/atc20/technical-sessions), [2019](https://www.usenix.org/conference/atc19/technical-sessions)
+- EuroSys: [2020](https://www.eurosys2020.org/program-2/accepted-papers/), [2019](https://eurosys2019.org/program/accepted-papers/)
 
 **Storage Systems** 
 
@@ -35,6 +36,14 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 
 ## Schedule
+
+**Fall 2020**  
+
+- Temporary time: 18:40 every Friday night
+
+| Date      | Presenter       | Venue      | Paper Title  | Note | Slides  |
+| --------- | --------------- | ---------- | ------------ | ---- | ------- |
+| 2020.9.25 | Ren, Yanjing    | ATC'20     | [Austere Flash Caching with Deduplication and Compression](https://www.usenix.org/system/files/atc20-wang-qiuping.pdf) | [Note](./notes/YanjingRen/) | [Slides](./slides/YanjingRen/) |
 
 **Spring 2020**  
 
