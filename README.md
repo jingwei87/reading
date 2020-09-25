@@ -44,6 +44,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | Date      | Presenter       | Venue      | Paper Title  | Note | Slides  |
 | --------- | --------------- | ---------- | ------------ | ---- | ------- |
 | 2020.9.25 | Ren, Yanjing    | ATC'20     | [Austere Flash Caching with Deduplication and Compression](https://www.usenix.org/system/files/atc20-wang-qiuping.pdf) | [Note](notes/YanjingRen/2020-09-24-Note-Wang2020Austere.md) | [Slides](./slides/YanjingRen/) |
+| 2020.x.x | Huang, Suyu      | ATC'20     | [DupHunter: Flexible High-Performance Deduplication for Docker Registries](https://www.usenix.org/system/files/atc20-zhao.pdf) | [Note] | [Slides] |
 
 **Spring 2020**  
 
