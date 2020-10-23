@@ -44,10 +44,10 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | Date      | Presenter       | Venue      | Paper Title  | Note | Slides  |
 | --------- | --------------- | ---------- | ------------ | ---- | ------- |
 | 2020.9.25 | Ren, Yanjing    | ATC'20     | [Austere Flash Caching with Deduplication and Compression](https://www.usenix.org/system/files/atc20-wang-qiuping.pdf) | [Note](notes/YanjingRen/2020-09-24-Note-Wang2020Austere.md) | [Slides](slides/YanjingRen/RG-ATC20-Austere.pdf) |
-| 2020.10.9 | Huang, Suyu     | ATC'20     | [DupHunter: Flexible High-Performance Deduplication for Docker Registries](https://www.usenix.org/system/files/atc20-zhao.pdf) | [Note](notes/Gabriel/[ATC20]DupHunter.md) | [Slides](./slides/Gabriel/DupHunter_20201009.pdf) |
-| 2020.10.16 | Xia, Wenniu    | ATC'20     | [OSCA: An Online-Model Based Cache Allocation Scheme in Cloud Block Storage Systems](https://www.usenix.org/system/files/atc20-zhang-yu.pdf) |[Note](https://github.com/jingwei87/reading/blob/master/notes/xiawenniu/OSCA.md)  | [Slides](slides/WenniuXia/OSCA.pdf) |
-| 2020.10.23 | Tang, Xingpeng    | ATC'20    | [DADI: Block-Level Image Service for Agile and Elastic Application Deployment](https://www.usenix.org/system/files/atc20-li-huiba.pdf) |[Note](https://github.com/jingwei87/reading/blob/master/notes/XingpengTang/DADI.md)  | Slide|
-| 2020.10.30 | Wei, Guoli    | EuroSys'20    | [MPTEE: Bringing Flexible and Effcient Memory Protection to Intel SGX](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536) |[Note]()  | Slide|
+| 2020.10.9 | Huang, Suyu     | ATC'20     | [DupHunter: Flexible High-Performance Deduplication for Docker Registries](https://www.usenix.org/system/files/atc20-zhao.pdf) | [Note](notes/Gabriel/[ATC20]DupHunter.md) | [Slides](slides/Gabriel/DupHunter_20201009.pdf) |
+| 2020.10.16 | Xia, Wenniu    | ATC'20     | [OSCA: An Online-Model Based Cache Allocation Scheme in Cloud Block Storage Systems](https://www.usenix.org/system/files/atc20-zhang-yu.pdf) |[Note](notes/xiawenniu/OSCA.md)  | [Slides](slides/WenniuXia/OSCA.pdf) |
+| 2020.10.23 | Tang, Xingpeng    | ATC'20    | [DADI: Block-Level Image Service for Agile and Elastic Application Deployment](https://www.usenix.org/system/files/atc20-li-huiba.pdf) |[Note](notes/XingpengTang/DADI.md)  | Slides |
+| 2020.10.30 | Wei, Guoli    | EuroSys'20    | [MPTEE: Bringing Flexible and Effcient Memory Protection to Intel SGX](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536) |[Note]()  | Slides |
 
 
 **Spring 2020**  
