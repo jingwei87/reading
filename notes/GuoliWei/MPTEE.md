@@ -60,6 +60,6 @@
 
 **Comments**  
 
-- Intel MPX itself has many deficiencies(such as maintenance burdens), but this paper does not mention the solutions MPTEE has taken to address these deficiencies.
+- Intel MPX itself has many deficiencies (such as maintenance burdens), but this paper does not mention the solutions MPTEE has taken to address these deficiencies.
 - 
 
