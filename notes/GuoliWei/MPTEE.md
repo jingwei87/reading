@@ -1,4 +1,4 @@
-**Title:** **MPTEE: Bringing Flexible and Efficient Memory Protection to IntelSGX **
+**Title:** **MPTEE: Bringing Flexible and Efficient Memory Protection to IntelSGX**
 
 **Source:** **EuroSys ’20**
 
