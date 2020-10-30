@@ -47,7 +47,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.10.9 | Huang, Suyu     | ATC'20     | [DupHunter: Flexible High-Performance Deduplication for Docker Registries](https://www.usenix.org/system/files/atc20-zhao.pdf) | [Note](notes/Gabriel/[ATC20]DupHunter.md) | [Slides](slides/Gabriel/DupHunter_20201009.pdf) |
 | 2020.10.16 | Xia, Wenniu    | ATC'20     | [OSCA: An Online-Model Based Cache Allocation Scheme in Cloud Block Storage Systems](https://www.usenix.org/system/files/atc20-zhang-yu.pdf) |[Note](notes/xiawenniu/OSCA.md)  | [Slides](slides/WenniuXia/OSCA.pdf) |
 | 2020.10.23 | Tang, Xingpeng    | ATC'20    | [DADI: Block-Level Image Service for Agile and Elastic Application Deployment](https://www.usenix.org/system/files/atc20-li-huiba.pdf) |[Note](notes/XingpengTang/DADI.md)  | [Slides](slides/XingpengTang/DADI.pdf) |
-| 2020.10.30 | Wei, Guoli    | EuroSys'20    | [MPTEE: Bringing Flexible and Effcient Memory Protection to Intel SGX](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536) |[Note](notes/GuoliWei/MPTEE.md)  | Slides |
+| 2020.10.30 | Wei, Guoli    | EuroSys'20    | [MPTEE: Bringing Flexible and Effcient Memory Protection to Intel SGX](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536) |[Note](notes/GuoliWei/MPTEE.md)  | [Slides](slides/GuoliWei/MPTEE-2020-10-30.pdf) |
 
 
 **Spring 2020**  
