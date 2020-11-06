@@ -23,7 +23,7 @@ Consider to propose the *regular research papers* from the top conferences in th
 **Storage Systems** 
 
 - FAST: [2020](https://www.usenix.org/conference/fast20/technical-sessions), [2019](https://www.usenix.org/conference/fast19/technical-sessions) 
-- MSST: [2019](https://storageconference.us/2019/index.html) 
+- MSST: [2020](https://storageconference.us), [2019](https://storageconference.us/2019/index.html) 
 
 ## Discussion Format
 
@@ -39,7 +39,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 **Fall 2020**  
 
-- Temporary time: 18:40 every Friday night
+- 4:30 pm on Friday of every week.
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------ |
@@ -79,7 +79,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 **Fall 2019**
 
-- 7 pm on Tuesday of every week.
+- 7:00 pm on Tuesday of every week.
 
 | Date       | Presenter     | Venue   | Paper Title                                                                                                                                                                    | Slides                                                           |
 | ---------- | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
