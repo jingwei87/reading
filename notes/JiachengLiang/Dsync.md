@@ -49,7 +49,8 @@
 
   **Strengthens**  
 
-  + In this paper, parts of fastCDC is used to generate FASTFP, which greatly saves the cost of hashing calculation.
+  + Parts of fastCDC is used to generate FASTFP, which greatly saves the cost of hashing calculation.
+  + Big Chunk saves a lot of strong hash computation overhead
 
   ---
 
@@ -64,3 +65,4 @@
   **Comments**  
 
   + The overall design of the article is not complicated, the writing is clear and fluent, and the testing part is also relatively perfect
+
