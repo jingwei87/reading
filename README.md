@@ -53,6 +53,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.11.20 | Ji, Xinyuan     |            | []()                                                                                                                                                        | [Note]()                                                    | [Slides]()                                       |
 | 2020.11.27 | Cheng, Qianyu   |            | []()                                                                                                                                                        | [Note]()                                                    | [Slides]()                                       |
 | 2020.12.04 | Yan, Rui       |            | []()                                                                                                                                                        | [Note]()                                                    | [Slides]()                                       |
+| 2020.12.11 | Tang, Ruoxiao   |            | []()                                                                                                                                                        | [Note]()                                                    | [Slides]()                                       |
 
 **Spring 2020**  
 
