@@ -52,7 +52,10 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.11.13 | Liang, Jiacheng | MSST'20    | [Dsync: a Lightweight Delta Synchronization Approach for Cloud Storage Services](https://storageconference.us/2020/Papers/08.DSync.pdf)                     | [Note](notes/JiachengLiang/Dsync.md)                        | [Slides](slides/JiachengLiang/dsync.pdf)         |
 | 2020.11.20 | Cheng, Qianyu   | FAST'18    | [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf)                                                                                                                                                        | [Note](notes/QianyuCheng/UKSM.md)                                                    | [Slides](slides/QianyuCheng/UKSM.pdf)                                       |
 | 2020.11.27 | Xia, Wenniu     | ATC'11     | [Building a High-performance Deduplication System](https://www.usenix.org/legacy/events/atc11/tech/final_files/GuoEfstathopoulos.pdf)                                                                                                                                                          | [Note]()                                                    | [Slides]()                                       |
-| 2020.12.04 | Ren, Yanjing    | ATC'12     | [An Empirical Study of Memory Sharing in Virtual Machines](https://www.usenix.org/system/files/conference/atc12/atc12-final226.pdf)                          | [Note](notes/YanjingRen/2020-09-24-Note-Wang2020Austere.md) | [Slides](slides/YanjingRen/RG-ATC20-Austere.pdf) |
+| 2020.12.04 | Ren, Yanjing    | ATC'12     | [An Empirical Study of Memory Sharing in Virtual Machines](https://www.usenix.org/system/files/conference/atc12/atc12-final226.pdf)                          | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/) |
+| 2020.12.11 | Tang, Ruoxiao   |            |  | |  |
+| 2020.12.18 | Huang, Suyu     |            |  | |  |
+| 2020.12.25 | Tang, Xingpeng  |            |  | |  |
 
 **Spring 2020**  
 
