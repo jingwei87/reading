@@ -26,7 +26,7 @@
 
     Instead of full index, this paper uses sampled index, which puts a part of (1/T) index into  the memory and others in disk, and pre-fetch the FPs of the container *hit FP* belongs to. Additionally, as number of segments in disk grows, we can dynamically change ratio of index in memory and in disk to support scalability.
 
-  - **Group sweep-and-mark**
+  - **Group mark-and-sweep**
 
     Based on *sweep-and-mark (aka Garbage Collection)*, *Group sweep-and-mark* just marks the changed *backup groups* and sweep them to free unused segment.
 
