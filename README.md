@@ -37,6 +37,19 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 ## Schedule
 
+**Spring 2021**
+
+- Temp : 4:30 pm on Friday of every week.
+
+| Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
+| ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
+| 2021.03.05 | Huang, Suyu     |            |  | |  |
+| 2021.03.12 | Tang, Xingpeng  |            |  | |  |
+| 2021.03.19 | Wei, Guoli      |            |  | |  |
+| 2021.03.26 | Ren, Yanjing    |            |  | |  |
+| 2021.04.02 | Xia, Wenniu     |            |  | |  |
+
+
 **Fall 2020**  
 
 - 4:30 pm on Friday of every week.
@@ -52,10 +65,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.11.13 | Liang, Jiacheng | MSST'20    | [Dsync: a Lightweight Delta Synchronization Approach for Cloud Storage Services](https://storageconference.us/2020/Papers/08.DSync.pdf)                     | [Note](notes/JiachengLiang/Dsync.md)                        | [Slides](slides/JiachengLiang/dsync.pdf)         |
 | 2020.11.20 | Cheng, Qianyu   | FAST'18    | [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf)                                                                                                                                                        | [Note](notes/QianyuCheng/UKSM.md)                                                    | [Slides](slides/QianyuCheng/UKSM.pdf)                                       |
 | 2020.11.27 | Xia, Wenniu     | ATC'11     | [Building a High-performance Deduplication System](https://www.usenix.org/legacy/events/atc11/tech/final_files/GuoEfstathopoulos.pdf)                                                                                                                                                          | [Note](notes/xiawenniu/Building%20a%20High-performance%20Deduplication%20System.md)                                                    | [Slides]()                                       |
-| 2020.12.04 | Ren, Yanjing    | ATC'12     | [An Empirical Study of Memory Sharing in Virtual Machines](https://www.usenix.org/system/files/conference/atc12/atc12-final226.pdf)                          | [Note](notes/YanjingRen/2020-11-22-Note-Sean2012An.md) | [Slides](slides/YanjingRen/RG-ATC12-MemoryShare.pdf) |
-| 2020.12.11 | Tang, Ruoxiao   |            |  | |  |
-| 2020.12.18 | Huang, Suyu     |            |  | |  |
-| 2020.12.25 | Tang, Xingpeng  |            |  | |  |
+| 2020.12.11 | Ren, Yanjing    | ATC'12     | [An Empirical Study of Memory Sharing in Virtual Machines](https://www.usenix.org/system/files/conference/atc12/atc12-final226.pdf)                          | [Note](notes/YanjingRen/2020-11-22-Note-Sean2012An.md) | [Slides](slides/YanjingRen/RG-ATC12-MemoryShare.pdf) |
+
 
 **Spring 2020**  
 
