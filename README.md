@@ -43,7 +43,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
-| 2021.03.05 | Huang, Suyu     |            |  | |  |
+| 2021.03.05 | Huang, Suyu    | FAST'21 | [The Dilemma between Deduplication and Locality: Can Both be Achieved?](https://www.usenix.org/conference/fast21/presentation/zou) | Note | Slides |
 | 2021.03.12 | Tang, Xingpeng  |            |  | |  |
 | 2021.03.19 | Wei, Guoli      |            |  | |  |
 | 2021.03.26 | Ren, Yanjing    |            |  | |  |
