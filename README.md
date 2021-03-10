@@ -46,7 +46,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.03.05 | Huang, Suyu    | FAST'21 | [The Dilemma between Deduplication and Locality: Can Both be Achieved?](https://www.usenix.org/conference/fast21/presentation/zou) | [Note](notes/Gabriel/[FASTC21]MFDedup.md) | [Slides](slides/Gabriel/MFDedup_20210305.pdf) |
 | 2021.03.12 | Tang, Xingpeng  | FAST'19 | [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](https://www.usenix.org/conference/fast19/presentation/liu) | |  |
 | 2021.03.19 | Wei, Guoli      | MSST'20 | [NovKV: Efficient Garbage Collection forKey-Value Separated LSM-Stores](https://www.storageconference.us/2020/Papers/15.NovKV.pdf) | |  |
-| 2021.03.26 | Ren, Yanjing    |            |  | |  |
+| 2021.03.26 | Ren, Yanjing    | FAST'18 | [Alacc: Accelerating restore performance of data deduplication systems using adaptive look-ahead window assisted chunk caching](https://www.usenix.org/system/files/conference/fast18/fast18-cao.pdf)   | |  |
 | 2021.04.02 | Xia, Wenniu     |            |  | |  |
 
 
