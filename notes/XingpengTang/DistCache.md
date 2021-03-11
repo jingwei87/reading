@@ -26,9 +26,9 @@ and Xin Jin, Johns Hopkins University; Ion Stoica, UC Berkeley.
 
     Up and bottom cache nodes report their own load information, clients first use the same hash functions as cache allocation to find cache node, then choose the lower load layer cache node for query.    
 
-  - **Two phases for update ** 
+  - **Two phases for update** 
 
-    •In first stage, storage server notifies all cache nodes that have data to be update are invalid. After the first phase, update its primary copy, and send an acknowledgment to the client
+    •In first stage, storage server notifies all cache nodes that have data to be update are invalid. After the first phase, update its primary copy, and send an acknowledgment to the client.
 
     • In second stage, update all cache nodes.
 
