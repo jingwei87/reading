@@ -42,7 +42,7 @@ and Xin Jin, Johns Hopkins University; Ion Stoica, UC Berkeley.
 **Strengthens**  
 
 - The power of two choices is naturally decentralized and efficient. The theory guarantees that the maximum load of the machine is much lower than Random.
-- The idea can be used for multiple cases, such as in-memory caching and switch-based caching..
+- The idea can be used for multiple cases, such as in-memory caching and switch-based caching.
 
 ---
 
