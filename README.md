@@ -48,6 +48,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.03.19 | Wei, Guoli      | MSST'20 | [NovKV: Efficient Garbage Collection for Key-Value Separated LSM-Stores](https://www.storageconference.us/2020/Papers/15.NovKV.pdf) | [Note](notes/GuoliWei/NovKV-2021-3-19.md) | [Slides](slides/GuoliWei/NovKV-2021-3-19.pdf)|
 | 2021.03.26 | Ren, Yanjing    | FAST'12 | [iDedup: Latency-aware, inline data deduplication for primary storage](https://static.usenix.org/events/fast/tech/full_papers/Srinivasan2-10-12.pdf)   | [Slides](slides/YanjingRen/RG-FAST12-iDedup.pdf) | [Note](notes/YanjingRen/2021-03-22-Note-Srinivasan2012iDedup.md) |
 | 2021.04.02 | Xia, Wenniu     |            |  | |  |
+| 2021.04.09 | Huang, Suyu    | FAST'21 | [ROART: Range-query Optimized Persistent ART](https://www.usenix.org/conference/fast21/presentation/ma) | Note | Slides |
 
 
 **Fall 2020**  
