@@ -49,7 +49,10 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.03.26 | Ren, Yanjing    | FAST'12 | [iDedup: Latency-aware, inline data deduplication for primary storage](https://static.usenix.org/events/fast/tech/full_papers/Srinivasan2-10-12.pdf)   | [Slides](slides/YanjingRen/RG-FAST12-iDedup.pdf) | [Note](notes/YanjingRen/2021-03-22-Note-Srinivasan2012iDedup.md) |
 | 2021.04.02 | Xia, Wenniu     | ATC'12 |[Primary Data Deduplication – Large Scale Study and System Design](https://www.usenix.org/system/files/conference/atc12/atc12-final293.pdf)  |[note](https://github.com/jingwei87/reading/blob/master/notes/xiawenniu/%5BATC'12%5D%20Primary%20Data%20Deduplication%20%E2%80%93%20Large%20Scale%20Study%20and%20System%20Design.md) |[slide](https://github.com/jingwei87/reading/blob/master/slides/WenniuXia/Primary%20Data%20Deduplication.pdf)  |
 | 2021.04.09 | Huang, Suyu    | FAST'21 | [ROART: Range-query Optimized Persistent ART](https://www.usenix.org/conference/fast21/presentation/ma) | [Note](notes/Gabriel/[FASTC21]ROART.md) | [Slides](slides/Gabriel/ROART_20210409.pdf) |
-
+| 2021.04.16 | Tang, Xingpeng  | | | | |
+| 2021.04.23 | Wei, Guoli      | | | | |
+| 2021.04.30 | Ren, Yanjing    | | | | |
+| 2021.05.07 | Xia, Wenniu     | | | | |
 
 **Fall 2020**  
 
