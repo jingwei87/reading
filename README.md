@@ -51,10 +51,13 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.04.09 | Huang, Suyu    | FAST'21 | [ROART: Range-query Optimized Persistent ART](https://www.usenix.org/conference/fast21/presentation/ma) | [Note](notes/Gabriel/[FASTC21]ROART.md) | [Slides](slides/Gabriel/ROART_20210409.pdf) |
 | 2021.04.16 | Tang, Xingpeng  | MSST'19| [LIPA: A Learning-based Indexing and Prefetching Approach for Data Deduplication](https://storageconference.us/2019/Research/LIPA.pdf)|[Note](notes/XingpengTang/LIPA.md) | [Slides](slides/XingpengTang/LIPA.pdf) | |
 | 2021.04.23 | Wei, Guoli      | ATC'11 | [SiLo: A Similarity-Locality based Near-Exact Deduplication Scheme with Low RAM Overhead and High Throughput](https://static.usenix.org/events/atc11/tech/final_files/Xia.pdf) | [Note](notes/GuoliWei/SiLo-2021-4-23.md) | [Slides]() |
-| 2021.04.30 | Ren, Yanjing    | | | | |
-| 2021.05.07 | Xia, Wenniu     | | | | |
+| 2021.04.30 | Ren, Yanjing    | FAST'13 | [Improving restore speed for backup systems that use inline chunk-based deduplication](https://www.usenix.org/system/files/conference/fast13/fast13-final124.pdf) | [Note]() | [Slides]() |
+| 2021.05.07 | Huang, Suyu     | | | | |
+| 2021.05.14 | Tang, Xingpeng  | | | | |
+| 2021.05.21 | Wei, Guoli      | | | | |
+| 2021.05.28 | Xiao, Hengying  | | | | |
 
-**Fall 2020**  
+**Fall 2020**
 
 - 4:30 pm on Friday of every week.
 
