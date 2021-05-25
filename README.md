@@ -54,7 +54,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.04.30 | Ren, Yanjing    | FAST'13 | [Improving restore speed for backup systems that use inline chunk-based deduplication](https://www.usenix.org/system/files/conference/fast13/fast13-final124.pdf) | [Note](notes/YanjingRen/2021-04-28-Note-Mark2013Improving.md) | [Slides](slides/YanjingRen/RG-FAST13-Improving.pdf) |
 | 2021.05.07 | Huang, Suyu    | MSST'17 | [HPDedup: A Hybrid Prioritized Data Deduplication Mechanism for Primary Storage in the Cloud](https://storageconference.us/2017/Papers/HybridPrioritizedDataDeduplication.pdf) | [Note](notes/Gabriel/[MSST17]HPDedup.md) | [Slides](slides/Gabriel/HPDedup_20210507.pdf) |
 | 2021.05.21 | Tang, Xingpeng  | FAST'21 | [Scalable Persistent Memory File System with Kernel-Userspace Collaboration](https://www.usenix.org/system/files/fast21-chen-youmin.pdf) | | |
-| 2021.05.28 | Wei, Guoli      | | | | |
+| 2021.05.28 | Wei, Guoli      | FAST'21 | [SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage](https://www.usenix.org/system/files/fast21-chen-hao.pdf)| | |
 | 2021.06.04 | Xiao, Hengying  | | | | |
 
 **Fall 2020**
