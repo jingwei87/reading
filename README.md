@@ -55,7 +55,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.05.07 | Huang, Suyu    | MSST'17 | [HPDedup: A Hybrid Prioritized Data Deduplication Mechanism for Primary Storage in the Cloud](https://storageconference.us/2017/Papers/HybridPrioritizedDataDeduplication.pdf) | [Note](notes/Gabriel/[MSST17]HPDedup.md) | [Slides](slides/Gabriel/HPDedup_20210507.pdf) |
 | 2021.05.21 | Tang, Xingpeng  | FAST'21 | [Scalable Persistent Memory File System with Kernel-Userspace Collaboration](https://www.usenix.org/system/files/fast21-chen-youmin.pdf) | | |
 | 2021.05.28 | Wei, Guoli      | ATC'18 | [HashKV: Enabling Efficient Updates in KV Storage via Hashing](https://www.usenix.org/conference/atc18/presentation/chan)| [Note](notes/GuoliWei/HashKV-2021-6-4.md) | [Slides](slides/GuoliWei/HashKV-2021-6-4.pdf) |
-| 2021.06.04 | Xiao, Hengying  | | | | |
+| 2021.06.18 | Xiao, Hengying  | | | | |
+| 2021.06.25 | Ren, Yanjing  | ATC'18 | [Can’t We All Get Along? Redesigning Protection Storage for Modern Workloads](https://www.usenix.org/system/files/conference/atc18/atc18-allu.pdf) | [Note]() | [Slides]() |
 
 **Fall 2020**
 
