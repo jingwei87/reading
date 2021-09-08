@@ -15,15 +15,15 @@ Consider to propose the *regular research papers* from the top conferences in th
 
 **Generic Systems**  
 
-- OSDI: [2020](https://www.usenix.org/conference/osdi20/accepted-papers), [2018](https://www.usenix.org/conference/osdi18/technical-sessions)
-- SOSP: [2019](https://sosp19.rcs.uwaterloo.ca/program.html), [2017](https://www.sigops.org/s/conferences/sosp/2017/program.html)
-- ATC: [2020](https://www.usenix.org/conference/atc20/technical-sessions), [2019](https://www.usenix.org/conference/atc19/technical-sessions)
-- EuroSys: [2020](https://www.eurosys2020.org/program-2/accepted-papers/), [2019](https://eurosys2019.org/program/accepted-papers/)
+- OSDI: [2021](https://www.usenix.org/conference/osdi21/technical-sessions), [2020](https://www.usenix.org/conference/osdi20/accepted-papers), [2018](https://www.usenix.org/conference/osdi18/technical-sessions)
+- SOSP: [2021](https://sosp2021.mpi-sws.org/accepted.html), [2019](https://sosp19.rcs.uwaterloo.ca/program.html), [2017](https://www.sigops.org/s/conferences/sosp/2017/program.html)
+- ATC: [2021](https://www.usenix.org/conference/atc21/technical-sessions), [2020](https://www.usenix.org/conference/atc20/technical-sessions), [2019](https://www.usenix.org/conference/atc19/technical-sessions)
+- EuroSys: [2021](https://2021.eurosys.org/papers.html#papers), [2020](https://www.eurosys2020.org/program-2/accepted-papers/), [2019](https://eurosys2019.org/program/accepted-papers/)
 
 **Storage Systems** 
 
-- FAST: [2020](https://www.usenix.org/conference/fast20/technical-sessions), [2019](https://www.usenix.org/conference/fast19/technical-sessions) 
-- MSST: [2020](https://storageconference.us), [2019](https://storageconference.us/2019/index.html) 
+- FAST: [2021](https://www.usenix.org/conference/fast21/technical-sessions), [2020](https://www.usenix.org/conference/fast20/technical-sessions), [2019](https://www.usenix.org/conference/fast19/technical-sessions) 
+- MSST: [2021](https://storageconference.us), [2020](https://storageconference.us/2020/index.html), [2019](https://storageconference.us/2019/index.html) 
 
 ## Discussion Format
 
@@ -36,6 +36,16 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 
 ## Schedule
+
+**Fall 2021**
+
+- Temp : 2:00 pm on Wednesday of every week.
+
+
+| Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
+| ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
+| 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note]() | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
+
 
 **Spring 2021**
 
@@ -55,8 +65,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.05.07 | Huang, Suyu    | MSST'17 | [HPDedup: A Hybrid Prioritized Data Deduplication Mechanism for Primary Storage in the Cloud](https://storageconference.us/2017/Papers/HybridPrioritizedDataDeduplication.pdf) | [Note](notes/Gabriel/[MSST17]HPDedup.md) | [Slides](slides/Gabriel/HPDedup_20210507.pdf) |
 | 2021.05.21 | Tang, Xingpeng  | FAST'21 | [Scalable Persistent Memory File System with Kernel-Userspace Collaboration](https://www.usenix.org/system/files/fast21-chen-youmin.pdf) | | |
 | 2021.05.28 | Wei, Guoli      | ATC'18 | [HashKV: Enabling Efficient Updates in KV Storage via Hashing](https://www.usenix.org/conference/atc18/presentation/chan)| [Note](notes/GuoliWei/HashKV-2021-6-4.md) | [Slides](slides/GuoliWei/HashKV-2021-6-4.pdf) |
-| 2021.06.18 | Xiao, Hengying  | | | | |
-| 2021.06.25 | Ren, Yanjing  | ATC'18 | [Can’t We All Get Along? Redesigning Protection Storage for Modern Workloads](https://www.usenix.org/system/files/conference/atc18/atc18-allu.pdf) | [Note]() | [Slides]() |
+<!-- | 2021.06.18 | Xiao, Hengying  | | | | | -->
+
 
 **Fall 2020**
 
