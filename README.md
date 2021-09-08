@@ -37,6 +37,16 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 ## Schedule
 
+**Fall 2021**
+
+- Temp : 2:00 pm on Wednesday of every week.
+
+| Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
+| ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
+| 2021.09.08 | Ren, Yanjing    |  |  |  |  |
+|  | Tang, Xingpeng  |  |  | |  |
+
+
 **Spring 2021**
 
 - Temp : 4:30 pm on Friday of every week.
