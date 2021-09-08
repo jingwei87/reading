@@ -44,7 +44,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
-| 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note]() | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
+| 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note](notes/YanjingRen/Lodic.md) | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
 
 
 **Spring 2021**
