@@ -46,6 +46,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
 | 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note](notes/YanjingRen/Lodic.md) | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
 | 2021.09.16 | Tang, Xingpeng  | FAST'04 | [C-Miner: Mining Block Correlations in Storage Systems](http://opera.ucsd.edu/~zchen9/paper/cminer.pdf) | [Note]() | [Slides]() |
+| 2021.09.30 | Ren, Yanjing  | CCS'15 | [Secure Deduplication of Encrypted Data without Additional Independent Servers](https://dl.acm.org/doi/pdf/10.1145/2810103.2813623) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/) |
 
 
 **Spring 2021**
