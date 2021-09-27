@@ -39,13 +39,14 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 **Fall 2021**
 
-- Temp : 2:00 pm on Wednesday of every week.
+- Temp : 10:30 am on Thursday every week.
 
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
 | 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note](notes/YanjingRen/Lodic.md) | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
 | 2021.09.16 | Tang, Xingpeng  | FAST'04 | [C-Miner: Mining Block Correlations in Storage Systems](http://opera.ucsd.edu/~zchen9/paper/cminer.pdf) | [Note]() | [Slides]() |
+| 2021.09.23 | Xiao, Hengying | FAST'18 | [ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching](https://www.usenix.org/conference/fast18/presentation/cao) | [Note]() | [Slides](slides/HengyingXiao/fast18-cao-2021.09.23.pdf)  |
 | 2021.09.30 | Ren, Yanjing  | CCS'15 | [Secure Deduplication of Encrypted Data without Additional Independent Servers](https://dl.acm.org/doi/pdf/10.1145/2810103.2813623) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/) |
 
 
@@ -61,14 +62,13 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.03.26 | Ren, Yanjing    | FAST'12 | [iDedup: Latency-aware, inline data deduplication for primary storage](https://static.usenix.org/events/fast/tech/full_papers/Srinivasan2-10-12.pdf)   | [Slides](slides/YanjingRen/RG-FAST12-iDedup.pdf) | [Note](notes/YanjingRen/2021-03-22-Note-Srinivasan2012iDedup.md) |
 | 2021.04.02 | Xia, Wenniu     | ATC'12 |[Primary Data Deduplication – Large Scale Study and System Design](https://www.usenix.org/system/files/conference/atc12/atc12-final293.pdf)  |[note](https://github.com/jingwei87/reading/blob/master/notes/xiawenniu/%5BATC'12%5D%20Primary%20Data%20Deduplication%20%E2%80%93%20Large%20Scale%20Study%20and%20System%20Design.md) |[slide](https://github.com/jingwei87/reading/blob/master/slides/WenniuXia/Primary%20Data%20Deduplication.pdf)  |
 | 2021.04.09 | Huang, Suyu    | FAST'21 | [ROART: Range-query Optimized Persistent ART](https://www.usenix.org/conference/fast21/presentation/ma) | [Note](notes/Gabriel/[FAST21]ROART.md) | [Slides](slides/Gabriel/ROART_20210409.pdf) |
-| 2021.04.16 | Tang, Xingpeng  | MSST'19| [LIPA: A Learning-based Indexing and Prefetching Approach for Data Deduplication](https://storageconference.us/2019/Research/LIPA.pdf)|[Note](notes/XingpengTang/LIPA.md) | [Slides](slides/XingpengTang/LIPA.pdf) | |
+| 2021.04.16 | Tang, Xingpeng  | MSST'19| [LIPA: A Learning-based Indexing and Prefetching Approach for Data Deduplication](https://storageconference.us/2019/Research/LIPA.pdf)|[Note](notes/XingpengTang/LIPA.md) | [Slides](slides/XingpengTang/LIPA.pdf) |
 | 2021.04.23 | Wei, Guoli      | ATC'11 | [SiLo: A Similarity-Locality based Near-Exact Deduplication Scheme with Low RAM Overhead and High Throughput](https://static.usenix.org/events/atc11/tech/final_files/Xia.pdf) | [Note](notes/GuoliWei/SiLo-2021-4-23.md) | [Slides](slides/GuoliWei/SiLo-2021-4-23.pdf) |
 | 2021.04.30 | Ren, Yanjing    | FAST'13 | [Improving restore speed for backup systems that use inline chunk-based deduplication](https://www.usenix.org/system/files/conference/fast13/fast13-final124.pdf) | [Note](notes/YanjingRen/2021-04-28-Note-Mark2013Improving.md) | [Slides](slides/YanjingRen/RG-FAST13-Improving.pdf) |
 | 2021.05.07 | Huang, Suyu    | MSST'17 | [HPDedup: A Hybrid Prioritized Data Deduplication Mechanism for Primary Storage in the Cloud](https://storageconference.us/2017/Papers/HybridPrioritizedDataDeduplication.pdf) | [Note](notes/Gabriel/[MSST17]HPDedup.md) | [Slides](slides/Gabriel/HPDedup_20210507.pdf) |
 | 2021.05.21 | Tang, Xingpeng  | FAST'21 | [Scalable Persistent Memory File System with Kernel-Userspace Collaboration](https://www.usenix.org/system/files/fast21-chen-youmin.pdf) | | |
 | 2021.05.28 | Wei, Guoli      | ATC'18 | [HashKV: Enabling Efficient Updates in KV Storage via Hashing](https://www.usenix.org/conference/atc18/presentation/chan)| [Note](notes/GuoliWei/HashKV-2021-6-4.md) | [Slides](slides/GuoliWei/HashKV-2021-6-4.pdf) |
-<!-- | 2021.06.18 | Xiao, Hengying  | | | | | -->
-
+|2021.06.18 | Xiao, Hengying | ATC'19 | [Mitigating Asymmetric Read and Write Costs in Cuckoo Hashing for Storage Systems](usenix.org/conference/atc19/presentation/sun) |[Note]()  | [Slides]()|
 
 **Fall 2020**
 
