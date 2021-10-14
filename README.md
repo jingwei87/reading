@@ -47,7 +47,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.09.08 | Ren, Yanjing  | ATC'21 | [Lodic: Logical Distributed Counting for Scalable File Access](https://www.usenix.org/system/files/atc21-park.pdf) | [Note](notes/YanjingRen/Lodic.md) | [Slides](slides/YanjingRen/RG-ATC21-RefCounter.pdf) |
 | 2021.09.16 | Tang, Xingpeng  | FAST'04 | [C-Miner: Mining Block Correlations in Storage Systems](http://opera.ucsd.edu/~zchen9/paper/cminer.pdf) | [Note]() | [Slides]() |
 | 2021.09.23 | Xiao, Hengying | FAST'18 | [ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching](https://www.usenix.org/conference/fast18/presentation/cao) | [Note]() | [Slides](slides/HengyingXiao/fast18-cao-2021.09.23.pdf)  |
-| 2021.09.30 | Ren, Yanjing  | CCS'15 | [Secure Deduplication of Encrypted Data without Additional Independent Servers](https://dl.acm.org/doi/pdf/10.1145/2810103.2813623) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/) |
+| 2021.10.09 | Ren, Yanjing  | FAST'21 | [Remap-SSD: Safely and Efficiently Exploiting {SSD} Address Remapping to Eliminate Duplicate Writes](https://www.usenix.org/system/files/fast21-zhou.pdf) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/RG-FAST21-Remap-SSD.pdf) |
 | 2021.10.14 | Tang, Xingpeng  |ATC'14 | [Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information](https://www.usenix.org/conference/atc14/technical-sessions/presentation/fu_min) | [Note]() | [Slides]() |
 
 
