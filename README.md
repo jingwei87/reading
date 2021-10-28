@@ -49,7 +49,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.09.23 | Xiao, Hengying | FAST'18 | [ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching](https://www.usenix.org/conference/fast18/presentation/cao) | [Note]() | [Slides](slides/HengyingXiao/fast18-cao-2021.09.23.pdf)  |
 | 2021.10.09 | Ren, Yanjing  | FAST'21 | [Remap-SSD: Safely and Efficiently Exploiting {SSD} Address Remapping to Eliminate Duplicate Writes](https://www.usenix.org/system/files/fast21-zhou.pdf) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/RG-FAST21-Remap-SSD.pdf) |
 | 2021.10.14 | Tang, Xingpeng  |ATC'14 | [Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information](https://www.usenix.org/conference/atc14/technical-sessions/presentation/fu_min) | [Note]() | [Slides]() |
-
+| 2021.10.21 | Xiao, Hengying  |FAST'20 | [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/system/files/fast20-chen_jiqiang.pdf) | [Note]() | [Slides](slides/HengyingXiao/fast20-chen_jiqiang-2921.10.21.pdf) |
 
 **Spring 2021**
 
@@ -87,7 +87,6 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.11.20 | Cheng, Qianyu   | FAST'18    | [UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling](https://www.usenix.org/system/files/conference/fast18/fast18-xia.pdf)                                                                                                                                                        | [Note](notes/QianyuCheng/UKSM.md)                                                    | [Slides](slides/QianyuCheng/UKSM.pdf)                                       |
 | 2020.11.27 | Xia, Wenniu     | ATC'11     | [Building a High-performance Deduplication System](https://www.usenix.org/legacy/events/atc11/tech/final_files/GuoEfstathopoulos.pdf)                                                                                              | [Note](notes/xiawenniu/Building%20a%20High-performance%20Deduplication%20System.md)| [Slides](https://github.com/jingwei87/reading/blob/master/slides/WenniuXia/build%20%20a%20high%20peformance%20deduplicaion%20system.pdf) |
 | 2020.12.11 | Ren, Yanjing    | ATC'12     | [An Empirical Study of Memory Sharing in Virtual Machines](https://www.usenix.org/system/files/conference/atc12/atc12-final226.pdf)                          | [Note](notes/YanjingRen/2020-11-22-Note-Sean2012An.md) | [Slides](slides/YanjingRen/RG-ATC12-MemoryShare.pdf) |
-
 
 **Spring 2020**  
 
