@@ -39,7 +39,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 **Fall 2021**
 
-- Temp : 10:30 am on Thursday every week.
+- Temp : 16:30 am on Wednesday every week.
 
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Note                                                        | Slides                                           |
@@ -51,6 +51,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.10.14 | Tang, Xingpeng  |ATC'14 | [Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information](https://www.usenix.org/conference/atc14/technical-sessions/presentation/fu_min) | [Note]() | [Slides]() |
 | 2021.10.21 | Xiao, Hengying  |FAST'20 | [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/system/files/fast20-chen_jiqiang.pdf) | [Note]() | [Slides](slides/HengyingXiao/fast20-chen_jiqiang-2921.10.21.pdf) |
 | 2021.11.04 | Ren, Yanjing  | ATC'21 | [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/system/files/atc21-bjorling.pdf) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/RG-ATCT21-ZNS.pdf) |
+| 2021.12.15 | Tang, Xingpeng  | FAST'21 | [Rethinking File Mapping for Persistent Memory](https://www.usenix.org/system/files/fast21-neal.pdf) | [Note]() | [Slides](slides/) |
 
 **Spring 2021**
 
