@@ -37,6 +37,16 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 ## Schedule
 
+**Spring 2022**
+
+- Temp : 9:30 am on Thursday every week.
+
+| Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Slides                                           |
+| ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 2022.02.24 | Ren, Yanjing  | HotStorage'19 | [ZoneAlloy: Elastic Data and Space Management for Hybrid SMR Drives](https://www.usenix.org/system/files/hotstorage19-paper-wu-fenggang.pdf)| [Slides](slides/YanjingRen/RG-HotStorage-ZoneAlloy.pdf) |
+
+
+
 **Fall 2021**
 
 - Temp : 16:30 am on Wednesday every week.
