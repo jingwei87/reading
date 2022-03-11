@@ -44,8 +44,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 2022.02.24 | Ren, Yanjing  | HotStorage'19 | [ZoneAlloy: Elastic Data and Space Management for Hybrid SMR Drives](https://www.usenix.org/system/files/hotstorage19-paper-wu-fenggang.pdf)| [Slides](slides/YanjingRen/RG-HotStorage-ZoneAlloy.pdf) |
-
-
+| 2022.03.9 | Xiao, Hengying | FAST'22 | [DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression](https://www.usenix.org/system/files/fast22-park.pdf)| [Slides](slides/HengyingXiao/fast22-park.pdf) |
 
 **Fall 2021**
 
@@ -61,6 +60,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2021.10.14 | Tang, Xingpeng  |ATC'14 | [Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information](https://www.usenix.org/conference/atc14/technical-sessions/presentation/fu_min) | [Note]() | [Slides]() |
 | 2021.10.21 | Xiao, Hengying  |FAST'20 | [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/system/files/fast20-chen_jiqiang.pdf) | [Note]() | [Slides](slides/HengyingXiao/fast20-chen_jiqiang-2921.10.21.pdf) |
 | 2021.11.04 | Ren, Yanjing  | ATC'21 | [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/system/files/atc21-bjorling.pdf) | [Note](notes/YanjingRen/) | [Slides](slides/YanjingRen/RG-ATCT21-ZNS.pdf) |
+| 2021.11.18 | Xiao, Hengying  | ATC'21 | [TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing](https://www.usenix.org/system/files/atc21-zou.pdf) | [Note](notes/HengyingXiao/) | [Slides](slides/HengyingXiao/act21-tcp_fuzz.pdf) |
 | 2021.12.15 | Tang, Xingpeng  | FAST'21 | [Rethinking File Mapping for Persistent Memory](https://www.usenix.org/system/files/fast21-neal.pdf) | [Note]() | [Slides](slides/) |
 
 **Spring 2021**
