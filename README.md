@@ -47,8 +47,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2022.03.9 | Xiao, Hengying | FAST'22 | [DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression](https://www.usenix.org/system/files/fast22-park.pdf)| [Slides](slides/HengyingXiao/fast22-park.pdf) |
 | 2022.03.16 | Song, Shuwei | CCS'19 | [TokenScope: Automatically Detecting Inconsistent Behaviors of Cryptocurrency Tokens in Ethereum](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664)| [Slides](slides/ShuweiSong/CCS2019_TokenScope.pdf) |
 | 2022.03.16 | Song, Shuwei | CCS'19 | [TokenScope: Automatically Detecting Inconsistent Behaviors of Cryptocurrency Tokens in Ethereum](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664)| [Slides](slides/RuilinWu/FAST‘22 DedupSearch Two-Phase Deduplication.pdf) |
-
-| 2022.03.23 | Wu, Ruilin | FAST'22 | [DedupSearch: Two-Phase Deduplication Aware Keyword Search](https://www.usenix.org/system/files/fast22-elias.pdf)| [Slides](slides/RuilinWu/FAST‘22 DedupSearch Two-Phase Deduplication.pdf) |
+| 2022.03.23 | Wu, Ruilin | FAST'22 | [DedupSearch: Two-Phase Deduplication Aware Keyword Search](https://www.usenix.org/system/files/fast22-elias.pdf)| [Slides](slides/ShuweiSong/CCS2019_TokenScope.pdf) |
 
 
 **Fall 2021**
