@@ -49,6 +49,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2022.03.23 | Wu, Ruilin | FAST'22 | [DedupSearch: Two-Phase Deduplication Aware Keyword Search](https://www.usenix.org/system/files/fast22-elias.pdf)| [Slides](slides/RuilinWu/FAST22_DedupSearch.pdf) |
 | 2022.03.30 | Luo, Feng | Security'21 | [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21-rodler.pdf) | [Slides](slides/FengLuo/Security2021_EVMPatch.pdf) |
 | 2022.04.6 | Tang, Xingpeng | FAST'22 | [The what, The from, and The to: The Migration Games in Deduplicated Systems](https://www.usenix.org/conference/fast22/presentation/kisous) | [Slides](slides/XingpengTang/Data-Migration.pptx) |
+| 2022.04.13 | Ni, Xiaoze | CCS'19 | [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains](https://dl.acm.org/doi/abs/10.1145/3319535.3355503) | [Slides](slides/XiaozeNi/HyperService_CCS2019.pptx) |
 
 **Fall 2021**
 
