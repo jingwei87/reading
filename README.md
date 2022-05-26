@@ -51,7 +51,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2022.04.6 | Tang, Xingpeng | FAST'22 | [The what, The from, and The to: The Migration Games in Deduplicated Systems](https://www.usenix.org/conference/fast22/presentation/kisous) | [Slides](slides/XingpengTang/Data-Migration.pdf) |
 | 2022.04.13 | Ni, Xiaoze | CCS'19 | [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains](https://dl.acm.org/doi/abs/10.1145/3319535.3355503) | [Slides](slides/XiaozeNi/HyperService_CCS2019.pptx) |
 | 2022.04.20 | Ran, Zhang | FAST'22 | [DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels](https:/www.usenix.org/conference/fast22/presentation/bacs) | [Slides](slides/RanZhang/FAST22_DUPEFS.pdf) |
-
+| 2022.05.11 | Ren, Yanjing | FAST'22 | [Improving the Reliability of Next Generation SSDs using WOM-v Codes](https://www.usenix.org/system/files/fast22-jaffer.pdf) | [Slides](slides/YanjingRen/RG-FAST-WOM.pdf) |
 
 **Fall 2021**
 
