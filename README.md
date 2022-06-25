@@ -4,35 +4,18 @@ The Reading Group at University of Electronic Science and Technology of China pr
 
 ## Paper Selection
 
-Consider to propose the *regular research papers* from the top conferences in the recent three years (the most recent are more preferred):
+Consider to propose the *regular research papers* from the top conferences in the recent years:
 
-**Security Big 4**  
-
-- CCS: 
-- S&P: 
-- Security: 
-- NDSS:  
-
-**Generic Systems**  
-
-- OSDI: [2021](https://www.usenix.org/conference/osdi21/technical-sessions), [2020](https://www.usenix.org/conference/osdi20/accepted-papers), [2018](https://www.usenix.org/conference/osdi18/technical-sessions)
-- SOSP: [2021](https://sosp2021.mpi-sws.org/accepted.html), [2019](https://sosp19.rcs.uwaterloo.ca/program.html), [2017](https://www.sigops.org/s/conferences/sosp/2017/program.html)
-- ATC: [2021](https://www.usenix.org/conference/atc21/technical-sessions), [2020](https://www.usenix.org/conference/atc20/technical-sessions), [2019](https://www.usenix.org/conference/atc19/technical-sessions)
-- EuroSys: [2021](https://2021.eurosys.org/papers.html#papers), [2020](https://www.eurosys2020.org/program-2/accepted-papers/), [2019](https://eurosys2019.org/program/accepted-papers/)
-
-**Storage Systems** 
-
-- FAST: [2021](https://www.usenix.org/conference/fast21/technical-sessions), [2020](https://www.usenix.org/conference/fast20/technical-sessions), [2019](https://www.usenix.org/conference/fast19/technical-sessions) 
-- MSST: [2021](https://storageconference.us), [2020](https://storageconference.us/2020/index.html), [2019](https://storageconference.us/2019/index.html) 
+- **Security Big 4:** CCS, S&P. Security, and NDSS.
+- **Generic Systems:** OSDI, SOSP, ATC, and EuroSys.
+- **Storage Systems:** FAST.
 
 ## Discussion Format
 
-The primary goal of the discussion is to *understand what the paper says*. With that in mind, the presenter should address the following points.
+Currently, we focus on blockchain and storage systems. The primary goal of our discussion is to *understand what the paper says*. With that in mind, the presenter should address the following points.
 
-- Write down a note (a template can be found [here](template/notes_tpl.md)), such that anyone who does not read the paper can have a high-level understanding (of main contents, advantages and disadvantages) based on your note. 
 - Structure your presentation in slides, and guide the discussion through (i) what is the problem to be solved? (ii) what are the key ideas/insights/techniques used to address the problem? and (iii) How do the authors justify their design?
-
-After discussion, keep the notes (in `md`) and slides (in `pdf`) in the directories `notes` and `slides`, respectively.
+- Present your selected paper in a concise and understandable way. The time limit is 30 minutes.
 
 
 ## Schedule
