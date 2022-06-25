@@ -22,7 +22,8 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 
 **Spring 2022**
 
-- Temp : 9:30 am on Thursday every week.
+- 10:00 am on Monday (Summer Holiday). 
+- 4:30 pm on Thursday.
 
 | Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Slides                                           |
 | ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
