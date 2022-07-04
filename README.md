@@ -38,7 +38,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.05.11 | Ren, Yanjing | FAST'22 | [Improving the Reliability of Next Generation SSDs using WOM-v Codes](https://www.usenix.org/system/files/fast22-jaffer.pdf) | [Slides](slides/YanjingRen/RG-FAST-WOM.pdf) |
 | 2022.06.13 | Xiao, Hengying | FAST'22 | [DEPART: Replica Decoupling for Distributed Key-Value Storage](https://www.usenix.org/system/files/fast22-zhang-qiang.pdf) | [Slides](slides/HengyingXiao/fast22-DEPART.pdf) |
 | 2022.06.20 | Luo, Feng | NDSS'21 | [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/ndss-paper/as-strong-as-its-weakest-link-how-to-break-blockchain-dapps-at-rpc-service/) | [Slides](slides/FengLuo/NDSS2021_RPC.pdf) |
-
+| 2022.07.04 | Luo, Ruijie | Security'21 | [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/su) | [Slides](slides/RuijieLuo/Evil under the sun.pdf) |
 
 
 **Fall 2021**
