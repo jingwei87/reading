@@ -42,7 +42,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.07.11 | Wu, Ruilin | FAST'22 | [InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems](https://www.usenix.org/system/files/fast22-lv.pdf) | [Slides](slides/RuilinWu/FAST22_InfiniFS.pdf) |
 | 2022.07.18 | Song, Shuwei | USENIX Security'21 | [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21-perez.pdf) | [Slides](slides/ShuweiSong/USENIX_SEC2021_SmartContractVulnerabilities.pdf) |
 | 2022.07.25 | Xiao, Hengying | ATC'22 | [IPLFS: Log-Structured File System without Garbage Collection](https://www.usenix.org/system/files/atc22-kim-juwon.pdf) | [Slides](slides/HengyingXiao/atc22-IPLFS.pdf) |
-| 2022.08.08 | Wu, Ruilin | ATC'22 | [Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_zou.pdf) | [Slides](slides/RuilinWu/ATC22_MeGA.pdf) |
+| 2022.08.08 | Wu, Ruilin | ATC'22 | [Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio](https://www.usenix.org/system/files/atc22-zou.pdf) | [Slides](slides/RuilinWu/ATC22_MeGA.pdf) |
 
 
 
