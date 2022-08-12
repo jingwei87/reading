@@ -39,9 +39,12 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.06.13 | Xiao, Hengying | FAST'22 | [DEPART: Replica Decoupling for Distributed Key-Value Storage](https://www.usenix.org/system/files/fast22-zhang-qiang.pdf) | [Slides](slides/HengyingXiao/fast22-DEPART.pdf) |
 | 2022.06.20 | Luo, Feng | NDSS'21 | [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/ndss-paper/as-strong-as-its-weakest-link-how-to-break-blockchain-dapps-at-rpc-service/) | [Slides](slides/FengLuo/NDSS2021_RPC.pdf) |
 | 2022.07.04 | Luo, Ruijie | Security'21 | [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/su) | [Slides](slides/RuijieLuo/Security21_Evil.pdf) |
+| 2022.07.11 | Wu, Ruilin | FAST'22 | [InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems](https://www.usenix.org/system/files/fast22-lv.pdf) | [Slides](slides/RuilinWu/FAST22_InfiniFS.pdf) |
 | 2022.07.18 | Song, Shuwei | USENIX Security'21 | [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21-perez.pdf) | [Slides](slides/ShuweiSong/USENIX_SEC2021_SmartContractVulnerabilities.pdf) |
 | 2022.07.25 | Xiao, Hengying | ATC'22 | [IPLFS: Log-Structured File System without Garbage Collection](https://www.usenix.org/system/files/atc22-kim-juwon.pdf) | [Slides](slides/HengyingXiao/atc22-IPLFS.pdf) |
 | 2022.08.1 | He, Zheyuan | OSDI'21| [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf) | [Slides](slides/ZheyuanHe/slides_OSDI2021_Consensus_vulnerable.pdf) |
+| 2022.08.08 | Wu, Ruilin | ATC'22 | [Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio](https://www.usenix.org/system/files/atc22-zou.pdf) | [Slides](slides/RuilinWu/ATC22_MeGA.pdf) |
+
 
 
 
