@@ -41,7 +41,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.07.04 | Luo, Ruijie | Security'21 | [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/su) | [Slides](slides/RuijieLuo/Security21_Evil.pdf) |
 | 2022.07.18 | Song, Shuwei | USENIX Security'21 | [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21-perez.pdf) | [Slides](slides/ShuweiSong/USENIX_SEC2021_SmartContractVulnerabilities.pdf) |
 | 2022.07.25 | Xiao, Hengying | ATC'22 | [IPLFS: Log-Structured File System without Garbage Collection](https://www.usenix.org/system/files/atc22-kim-juwon.pdf) | [Slides](slides/HengyingXiao/atc22-IPLFS.pdf) |
-
+| 2022.08.1 | He, Zheyuan | OSDI'21| [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf) | [Slides](slides/ZheyuanHe/slides_OSDI2021_Consensus_vulnerable.pdf) |
 
 
 
