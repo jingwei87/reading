@@ -44,7 +44,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.07.25 | Xiao, Hengying | ATC'22 | [IPLFS: Log-Structured File System without Garbage Collection](https://www.usenix.org/system/files/atc22-kim-juwon.pdf) | [Slides](slides/HengyingXiao/atc22-IPLFS.pdf) |
 | 2022.08.1 | He, Zheyuan | OSDI'21| [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf) | [Slides](slides/ZheyuanHe/slides_OSDI2021_Consensus_vulnerable.pdf) |
 | 2022.08.08 | Wu, Ruilin | ATC'22 | [Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio](https://www.usenix.org/system/files/atc22-zou.pdf) | [Slides](slides/RuilinWu/ATC22_MeGA.pdf) |
-| 2022.08.015 | Luo, Feng | NSDI'19 | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping) | [Slides](slides/FengLuo/NSDI2019_Monoxide.pdf) |
+| 2022.08.15 | Luo, Feng | NSDI'19 | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping) | [Slides](slides/FengLuo/NSDI2019_Monoxide.pdf) |
 
 
 
