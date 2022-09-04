@@ -20,6 +20,13 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 
 ## Schedule
 
+**Fall 2022**
+
+- 10:20 am on Friday
+| Date       | Presenter       | Venue      | Paper Title                                                                                                                                                 | Slides                                           |
+| ---------- | --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+|  |   |  |  |  |
+
 **Spring 2022**
 
 - 10:00 am on Monday (Summer Holiday). 
