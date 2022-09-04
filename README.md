@@ -23,6 +23,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 **Fall 2022**
 
 - 10:20 am on Friday
+
 | Date      | Presenter | Venue | Paper Title | Slides |
 | --------- | --------- | ----- | ----------- | ------ |
 | 2022.9.10 |           |       |             |        |
