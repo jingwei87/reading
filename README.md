@@ -26,7 +26,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 
 | Date      | Presenter | Venue | Paper Title | Slides |
 | --------- | --------- | ----- | ----------- | ------ |
-| 2022.9.10 |           |       |             |        |
+| 2022.9.10 | Song, Shuwei | USENIX Security'20 | [TxSpector: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf) | [Slides](slides/ShuweiSong/USENIX_SEC2020_TxSpector.pdf) |
 
 **Spring 2022**
 
