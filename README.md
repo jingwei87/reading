@@ -31,6 +31,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.9.30 | Wu, Ruilin  | FAST'22 | [TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression](https://www.usenix.org/system/files/fast22-an.pdf) | [Slides](slides/RuilinWu/FAST22_TVstore.pdf) |
 | 2022.10.14 | Wang, Leqing | NDSS'20 | [Broken Metre: Attacking Resource Metering in EVM](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24267-paper.pdf) | [Slides](slides/LeqingWang/NDSS2020_BrokenMetre.pdf) |
 | 2022.10.28 | Qiao,Ao | S&P'22 | [SAILFISH: Vetting Smart Contract State-nconsistency Bugs in Seconds](https://sites.cs.ucsb.edu/~yanju/publications/oakland22_sailfish.pdf) | [Slides](slides/AoQiao/S&P2022_SAILFISH.pdf) |
+| 2022.11.18 | Luo, Feng | CCS'22 | [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://dl.acm.org/doi/abs/10.1145/3548606.3559384) | [Slides](slides/FengLuo/CCS2022_VetSC.pdf) |
 
 
 **Spring 2022**
