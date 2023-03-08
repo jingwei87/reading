@@ -20,9 +20,19 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 
 ## Schedule
 
+**Spring 2023**
+
+- 10:20 am on Wednesday.
+
+| Date      | Presenter | Venue | Paper Title | Slides |
+| --------- | --------- | ----- | ----------- | ------ |
+
+
+
+
 **Fall 2022**
 
-- 10:20 am on Friday
+- 10:20 am on Friday.
 
 | Date      | Presenter | Venue | Paper Title | Slides |
 | --------- | --------- | ----- | ----------- | ------ |
