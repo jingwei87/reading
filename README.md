@@ -27,6 +27,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | Date      | Presenter | Venue | Paper Title | Slides |
 | --------- | --------- | ----- | ----------- | ------ |
 | 2023.3.8 | Yang, Jingyuan | IEEE T-PDS'21 | [LOFS: A Lightweight Online File Storage Strategy for Effective Data Deduplication at Network Edge](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645269) | [Slides](slides/JingyuanYang/LOFS.pdf) |
+| 2023.3.22 | Wang, Leqing | S&P'22 | [SAILFISH: Vetting Smart Contract State-nconsistency Bugs in Seconds](https://sites.cs.ucsb.edu/~yanju/publications/oakland22_sailfish.pdf) | [Slides](slides/LeqingWang/S&P2022_SAILFISH.pdf) |
 
 
 
