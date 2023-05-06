@@ -30,8 +30,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2023.3.22 | Wang, Leqing | S&P'22 | [SAILFISH: Vetting Smart Contract State-nconsistency Bugs in Seconds](https://sites.cs.ucsb.edu/~yanju/publications/oakland22_sailfish.pdf) | [Slides](slides/LeqingWang/S&P2022_SAILFISH.pdf) |
 | 2023.4.14 | Qiao,Ao | S&P'21 | [SGUARD: Towards Fixing Vulnerable Smart Contracts Automaticall](https://arxiv.org/pdf/2101.01917.pdf) | [Slides](slides/AoQiao/S&P2021_sGUARD.pdf) |
 | 2023.4.21 | He, Zheyuan | S&P'23 | [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](slides/ZheyuanHe/tyr_sp23_paper.pdf) | [Slides](slides/ZheyuanHe/tyr_sp23_slides.pdf) |
-
-
+| 2023.5.5 | Wu,Ruilin | FAST'23 | [FUSEE: A Fully Memory-Disaggregated  Key-Value Store](https://www.usenix.org/system/files/fast23-shen.pdf) | [Slides](slides/RuilinWu/FAST23_FUSEE.pdf) |
 
 **Fall 2022**
 
@@ -45,8 +44,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2022.10.14 | Wang, Leqing | NDSS'20 | [Broken Metre: Attacking Resource Metering in EVM](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24267-paper.pdf) | [Slides](slides/LeqingWang/NDSS2020_BrokenMetre.pdf) |
 | 2022.10.28 | Qiao,Ao | S&P'22 | [SAILFISH: Vetting Smart Contract State-nconsistency Bugs in Seconds](https://sites.cs.ucsb.edu/~yanju/publications/oakland22_sailfish.pdf) | [Slides](slides/AoQiao/S&P2022_SAILFISH.pdf) |
 | 2022.11.18 | Yang, Jingyuan | FAST'22 | [Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases](https://www.usenix.org/system/files/fast22-huang.pdf) | [Slides](slides/JingyuanYang/Removing_Double.pdf) |
-| 2022.11.18 | Luo, Feng | CCS'22 | [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://dl.acm.org/doi/abs/10.1145/3548606.3559384) | [Slides](slides/FengLuo/CCS2022_VetSC.pdf) |
-
+| 2022.11.18 | Luo, Feng | CCS'22 | [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://dl.acm.org/doi/abs/10.1145/3548606.3559384) | [Slides](slides/RuilinWu/Security2023_FUSEE.pdf) |
 
 **Spring 2022**
 
