@@ -28,10 +28,11 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | --------- | --------- | ----- | ----------- | ------ |
 | 2023.3.8 | Yang, Jingyuan | IEEE T-PDS'21 | [LOFS: A Lightweight Online File Storage Strategy for Effective Data Deduplication at Network Edge](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645269) | [Slides](slides/JingyuanYang/LOFS.pdf) |
 | 2023.3.22 | Wang, Leqing | S&P'22 | [SAILFISH: Vetting Smart Contract State-nconsistency Bugs in Seconds](https://sites.cs.ucsb.edu/~yanju/publications/oakland22_sailfish.pdf) | [Slides](slides/LeqingWang/S&P2022_SAILFISH.pdf) |
-| 2023.4.14 | Qiao,Ao | S&P'21 | [SGUARD: Towards Fixing Vulnerable Smart Contracts Automaticall](https://arxiv.org/pdf/2101.01917.pdf) | [Slides](slides/AoQiao/S&P2021_sGUARD.pdf) |
+| 2023.4.14 | Qiao,Ao | S&P'21 | [SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/pdf/2101.01917.pdf) | [Slides](slides/AoQiao/S&P2021_sGUARD.pdf) |
 | 2023.4.21 | He, Zheyuan | S&P'23 | [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](slides/ZheyuanHe/tyr_sp23_paper.pdf) | [Slides](slides/ZheyuanHe/tyr_sp23_slides.pdf) |
 | 2023.5.5 | Wu,Ruilin | FAST'23 | [FUSEE: A Fully Memory-Disaggregated  Key-Value Store](https://www.usenix.org/system/files/fast23-shen.pdf) | [Slides](slides/RuilinWu/FAST23_FUSEE.pdf) |
 | 2023.5.12 | Song, Shuwei | NDSS'23 | [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f222_paper.pdf) | [Slides](slides/ShuweiSong/NDSS23_BlockScope.pdf) |
+| 2023.7.5 | Qiao,Ao | USENIX Security'23 | [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf) | [Slides](slides/AoQiao/Security2023_APE.pdf) |
 
 **Fall 2022**
 
