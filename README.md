@@ -33,6 +33,7 @@ Currently, we focus on blockchain and storage systems. The primary goal of our d
 | 2023.5.5 | Wu,Ruilin | FAST'23 | [FUSEE: A Fully Memory-Disaggregated  Key-Value Store](https://www.usenix.org/system/files/fast23-shen.pdf) | [Slides](slides/RuilinWu/FAST23_FUSEE.pdf) |
 | 2023.5.12 | Song, Shuwei | NDSS'23 | [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f222_paper.pdf) | [Slides](slides/ShuweiSong/NDSS23_BlockScope.pdf) |
 | 2023.7.5 | Qiao,Ao | USENIX Security'23 | [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf) | [Slides](slides/AoQiao/Security2023_APE.pdf) |
+| 2023.7.26 | He, Zheyuan | ISSTA'23 | [ityfuzz: snapshot-based fuzzer for smart contract](https://arxiv.org/pdf/2306.17135)| [Slides](slides/ZheyuanHe/ISSTA23-ityfuzz.pdf) |
 
 **Fall 2022**
 
